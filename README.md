@@ -1,6 +1,5 @@
-# @ronomon/crypto-async
-Fast, reliable cipher, hash and hmac methods executed in Node's threadpool for
-multi-core throughput.
+# @dflyboy420/crypto-gdrive
+Quick and multi-threaded upload of files ith encryption.
 
 ## Motivation
 #### Some longstanding issues with Node's `crypto` module
